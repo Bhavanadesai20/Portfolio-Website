@@ -1,7 +1,8 @@
 # Portfolio-Website
 Welcome to my personal portfolio website! This site showcases my work, projects, and skills as a [your profession, e.g., web developer, graphic designer, data scientist]. It serves as an online resume and a platform for potential employers or collaborators to learn more about me and my work.
 
-#Table of Contents
+#Table-of-Contents
+
 Introduction
 Features
 Technologies Used
@@ -11,10 +12,12 @@ Screenshots
 Contributing
 License
 #Contact
+
 Introduction
 This website is a comprehensive showcase of my professional journey. It includes my biography, skills, portfolio, resume, and a contact form. Each project in the portfolio section is accompanied by a brief description, technologies used, and a link to the live project or GitHub repository.
 
 #Features
+
 Responsive Design: The website is fully responsive and works on all device sizes.
 Interactive UI: Includes smooth scrolling, hover effects, and transitions.
 Portfolio Section: Showcases my projects with descriptions, images, and links.
@@ -37,7 +40,7 @@ GitHub Pages / Netlify / Vercel
 Installation
 To run this project locally, follow these steps:
 
-#Clone the repository:
+#Clone-the-repository:
 
 bash
 Copy code
@@ -60,6 +63,7 @@ npm start
 Open your browser and go to http://localhost:3000 to view the website.
 
 #Usage
+
 This website is designed to be a personal showcase. You can modify the content in the src folder, including the projects, blog posts, and personal information.
 
 #Screenshots
@@ -70,6 +74,7 @@ Description of the home page.
 Description of the portfolio section.
 
 #Contributing
+
 If you want to contribute to this project, feel free to fork the repository and submit a pull request. All contributions are welcome!
 
 #License
